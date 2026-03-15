@@ -1,5 +1,5 @@
-#Hi there
-#💫 About Me:
+Hi there
+💫 About Me:
  I’m currently working on Machine Learning projects and improving my Python skills<br><br> I’m looking to collaborate on AI, Machine Learning, and beginner-friendly open source projects<br><br>I’m looking for help with Data Structures & Algorithms and advanced ML concepts<br><br>I’m currently learning Python, Machine Learning, and Data Structures & Algorithms<br><br>Ask me about Python basics, Machine Learning projects, and AI concepts<br><br>Fun fact: I enjoy turning ideas into real AI projects and experimenting with ML models
 
 
